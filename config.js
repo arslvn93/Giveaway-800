@@ -25,7 +25,7 @@ const config = {
     "ghlWebhookUrl": "",
     "facebookPixelId": "380781217326789",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": "",
+    "followUpBossEmail": "shar.banifatemi@followupboss.me",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752005612002_0",
+      "id": "q_auto_1752005697248_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752005612002_1",
+      "id": "q_auto_1752005697248_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752005612002_2",
+      "id": "q_auto_1752005697248_2",
       "questionText": "How important is community activity participation to you and your family?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752005612002_3",
+      "id": "q_auto_1752005697248_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
