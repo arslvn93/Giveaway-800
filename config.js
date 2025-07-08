@@ -31,7 +31,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/g5yqc707z9rme0cqwne842p3zm.jpg",
+        "src": "https://i.ibb.co/FqnXyqVQ/Chat-GPT-Image-2025-j-l-8-22-42-30.png",
         "alt": "Professional home photography example in Vellore Village"
       },
       {
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752006659602_0",
+      "id": "q_auto_1752007392189_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752006659602_1",
+      "id": "q_auto_1752007392189_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752006659602_2",
+      "id": "q_auto_1752007392189_2",
       "questionText": "How important is community activity participation to you and your family?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752006659602_3",
+      "id": "q_auto_1752007392189_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
