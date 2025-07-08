@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751990045098_0",
+      "id": "q_auto_1751990212531_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751990045098_1",
+      "id": "q_auto_1751990212531_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751990045098_2",
+      "id": "q_auto_1751990212531_2",
       "questionText": "How important is community activity participation to you and your family?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751990045098_3",
+      "id": "q_auto_1751990212531_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
@@ -267,8 +267,8 @@ const config = {
   },
   "footerContact": {
     "social": {
-      "facebook": "",
-      "instagram": ""
+      "facebook": "https://www.facebook.com/theskygroupre/",
+      "instagram": "https://www.instagram.com/stephenfabbrorealestate/"
     },
     "agentContact": {
       "name": "Stephen Fabbro",
@@ -277,8 +277,8 @@ const config = {
       "email": "stephen@theskygroup.ca"
     },
     "footerDisclaimer": "This giveaway is organized by Stephen Fabbro Real Estate. Open to Vellore Village homeowners only. Winner will be selected randomly from valid entries by September 8, 2025. Prize is a 1% listing commission discount applied on closing, with no cash value. No purchase required.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
+    "organizerLogoUrl": "https://theskygroup.ca/wp-content/uploads/2022/07/SkyGroupLogo.png",
+    "secondaryLogoUrl": "https://theskygroup.ca/wp-content/uploads/2022/09/Brokeredby_Logo_White__Ontario_Small.png",
     "secondaryLogoAlt": "Stephen Fabbro Brokerage Logo",
     "organizerName": "Stephen Fabbro Real Estate",
     "brokerageName": "",
