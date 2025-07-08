@@ -1,7 +1,7 @@
 const config = {
   "meta": {
     "pageTitle": "Win a $15,000 Vellore Village Home Seller Discount \u000026ndash; Enter Free!",
-    "navBrandLogoText": "Stephen Fabbro",
+    "navBrandLogoText": "The Sky Group",
     "privacyPolicyLink": "https://property.ca/privacy"
   },
   "giveaway": {
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752006639758_0",
+      "id": "q_auto_1752006659602_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752006639758_1",
+      "id": "q_auto_1752006659602_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752006639758_2",
+      "id": "q_auto_1752006659602_2",
       "questionText": "How important is community activity participation to you and your family?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752006639758_3",
+      "id": "q_auto_1752006659602_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
