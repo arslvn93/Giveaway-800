@@ -2,7 +2,7 @@ const config = {
   "meta": {
     "pageTitle": "Win a $15,000 Vellore Village Home Seller Discount \u000026ndash; Enter Free!",
     "navBrandLogoText": "Stephen Fabbro",
-    "privacyPolicyLink": ""
+    "privacyPolicyLink": "https://property.ca/privacy"
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>1% Listing Commission Discount</span> to Sell Your Home in Vellore Village!",
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752006102891_0",
+      "id": "q_auto_1752006510686_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752006102891_1",
+      "id": "q_auto_1752006510686_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752006102891_2",
+      "id": "q_auto_1752006510686_2",
       "questionText": "How important is community activity participation to you and your family?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752006102891_3",
+      "id": "q_auto_1752006510686_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
@@ -273,7 +273,7 @@ const config = {
     "agentContact": {
       "name": "Stephen Fabbro",
       "title": "Local Real Estate Expert - Vellore Village",
-      "phone": "",
+      "phone": "(289) 907-0228",
       "email": "stephen@theskygroup.ca"
     },
     "footerDisclaimer": "This giveaway is organized by Stephen Fabbro Real Estate. Open to Vellore Village homeowners only. Winner will be selected randomly from valid entries by September 8, 2025. Prize is a 1% listing commission discount applied on closing, with no cash value. No purchase required.",
