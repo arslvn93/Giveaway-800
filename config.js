@@ -123,12 +123,12 @@ const config = {
         "a": "Homeowners living in Vellore Village, Vaughan are eligible to win."
       },
       {
-        "q": "What if I�27m not ready to sell right now?",
+        "q": "What if I'm not ready to sell right now?",
         "a": "No problem! You can use the discount any time before spring 2026 or transfer it to a family member or friend who lives in Vellore Village."
       },
       {
         "q": "How is the discount given?",
-        "a": "You get 1% off your total listing commission. This discount comes right off your closing costs�26mdash;no cash value or payouts."
+        "a": "You get 1% off your total listing commission. This discount comes right off your closing costs - no cash value or payouts."
       },
       {
         "q": "Does this cover photos, video, and staging?",
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751990212531_0",
+      "id": "q_auto_1752005361166_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751990212531_1",
+      "id": "q_auto_1752005361166_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751990212531_2",
+      "id": "q_auto_1752005361166_2",
       "questionText": "How important is community activity participation to you and your family?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751990212531_3",
+      "id": "q_auto_1752005361166_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
