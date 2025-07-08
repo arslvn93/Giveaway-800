@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752007392189_0",
+      "id": "q_auto_1752008482498_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752007392189_1",
+      "id": "q_auto_1752008482498_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -209,29 +209,29 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752007392189_2",
-      "questionText": "How important is community activity participation to you and your family?",
+      "id": "q_auto_1752008482498_2",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
-          "value": "Very important",
-          "text": "Very important"
+          "value": "Yes, sometime in 2025",
+          "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Somewhat important",
-          "text": "Somewhat important"
+          "value": "Yes, in the next 1–2 years",
+          "text": "Yes, in the next 1–2 years"
         },
         {
-          "value": "Not important",
-          "text": "Not important"
+          "value": "Not at the moment",
+          "text": "Not at the moment"
         },
         {
-          "value": "We prefer privacy",
-          "text": "We prefer privacy"
+          "value": "I’m not sure yet",
+          "text": "I’m not sure yet"
         }
       ]
     },
     {
-      "id": "q_auto_1752007392189_3",
+      "id": "q_auto_1752008482498_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
