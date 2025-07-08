@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752005697248_0",
+      "id": "q_auto_1752005878048_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752005697248_1",
+      "id": "q_auto_1752005878048_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752005697248_2",
+      "id": "q_auto_1752005878048_2",
       "questionText": "How important is community activity participation to you and your family?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752005697248_3",
+      "id": "q_auto_1752005878048_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
@@ -281,10 +281,10 @@ const config = {
     "secondaryLogoUrl": "https://theskygroup.ca/wp-content/uploads/2022/09/Brokeredby_Logo_White__Ontario_Small.png",
     "secondaryLogoAlt": "Stephen Fabbro Brokerage Logo",
     "organizerName": "Stephen Fabbro Real Estate",
-    "brokerageName": "",
-    "address": "",
+    "brokerageName": "Property.Ca",
+    "address": "36 Distillery Lane Unit 500, Toronto, Ontario M5A3C4.",
     "email": "stephen@theskygroup.ca",
-    "phone": "",
+    "phone": "(289) 907-0228",
     "copyrightOwner": "Stephen Fabbro"
   },
   "deploymentInfo": {
