@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752005878048_0",
+      "id": "q_auto_1752006036408_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752005878048_1",
+      "id": "q_auto_1752006036408_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752005878048_2",
+      "id": "q_auto_1752006036408_2",
       "questionText": "How important is community activity participation to you and your family?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752005878048_3",
+      "id": "q_auto_1752006036408_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
@@ -268,7 +268,7 @@ const config = {
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/theskygroupre/",
-      "instagram": "https://www.instagram.com/stephenfabbrorealestate/"
+      "instagram": "https://www.instagram.com/theskygroup_re/?hl=en"
     },
     "agentContact": {
       "name": "Stephen Fabbro",
