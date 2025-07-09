@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752094874380_0",
+      "id": "q_auto_1752094978045_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752094874380_1",
+      "id": "q_auto_1752094978045_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752094874380_2",
+      "id": "q_auto_1752094978045_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752094874380_3",
+      "id": "q_auto_1752094978045_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
@@ -274,7 +274,7 @@ const config = {
       "name": "The Sky Group",
       "title": "Local Real Estate Experts - Vellore Village",
       "phone": "(289) 907-0228",
-      "email": "stephen@theskygroup.ca"
+      "email": "info@theskygroup.ca"
     },
     "footerDisclaimer": "This giveaway is organized by The Sky Group Real Estate. Open to Vellore Village homeowners only. Winner will be selected randomly from valid entries by September 8, 2025. Prize is a 1% listing commission discount applied on closing, with no cash value. No purchase required.",
     "organizerLogoUrl": "https://theskygroup.ca/wp-content/uploads/2022/07/SkyGroupLogo.png",
@@ -283,7 +283,7 @@ const config = {
     "organizerName": "The Sky Group",
     "brokerageName": "Property.Ca",
     "address": "36 Distillery Lane Unit 500, Toronto, Ontario M5A3C4.",
-    "email": "stephen@theskygroup.ca",
+    "email": "info@theskygroup.ca",
     "phone": "(289) 907-0228",
     "copyrightOwner": "The Sky Group"
   },
