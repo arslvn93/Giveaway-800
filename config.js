@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752094396149_0",
+      "id": "q_auto_1752094410164_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752094396149_1",
+      "id": "q_auto_1752094410164_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752094396149_2",
+      "id": "q_auto_1752094410164_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752094396149_3",
+      "id": "q_auto_1752094410164_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
@@ -276,7 +276,7 @@ const config = {
       "phone": "(289) 907-0228",
       "email": "stephen@theskygroup.ca"
     },
-    "footerDisclaimer": "This giveaway is organized by Stephen Fabbro Real Estate. Open to Vellore Village homeowners only. Winner will be selected randomly from valid entries by September 8, 2025. Prize is a 1% listing commission discount applied on closing, with no cash value. No purchase required.",
+    "footerDisclaimer": "This giveaway is organized by The Sky Group Real Estate. Open to Vellore Village homeowners only. Winner will be selected randomly from valid entries by September 8, 2025. Prize is a 1% listing commission discount applied on closing, with no cash value. No purchase required.",
     "organizerLogoUrl": "https://theskygroup.ca/wp-content/uploads/2022/07/SkyGroupLogo.png",
     "secondaryLogoUrl": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066701131-HMSQC87ZI0P5A10TQREH/logo_black_bg.jpg",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
