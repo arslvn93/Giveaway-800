@@ -39,11 +39,11 @@ const config = {
         "alt": "Beautifully staged living room ready for sale"
       },
       {
-        "src": "https://drive.google.com/file/d/1bkEZvUev7UpisY5f9nGK7mJTRnZ51X1O/view",
+        "src": "https://i.ibb.co/QvpPyQ2M/Group-Shot-Couch.jpg",
         "alt": "SkyGroup Couch photo"
       },
       {
-        "src": "https://imgur.com/a/tWrG9Mo",
+        "src": "https://i.ibb.co/gbp57RH1/Screenshot-2025-07-09-at-1-24-49-p-m.png",
         "alt": "SkyGroup x Property.Ca"
       }
     ],
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752095033710_0",
+      "id": "q_auto_1752095175981_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752095033710_1",
+      "id": "q_auto_1752095175981_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752095033710_2",
+      "id": "q_auto_1752095175981_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752095033710_3",
+      "id": "q_auto_1752095175982_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
