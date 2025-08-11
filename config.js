@@ -20,7 +20,7 @@ const config = {
   "settings": {
     "confettiColors": [],
     "showCountdownInHero": true,
-    "theme": "dark",
+    "theme": "light",
     "primaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/XJJFJP9sLnGUcLF1yfop/webhook-trigger/D7wvYvKJ8DURX1ECSmjG",
     "facebookPixelId": "380781217326789",
@@ -157,7 +157,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1754924788132_0",
+      "id": "q_auto_1754924821993_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -179,7 +179,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754924788132_1",
+      "id": "q_auto_1754924821993_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -201,7 +201,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754924788132_2",
+      "id": "q_auto_1754924821993_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -223,7 +223,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754924788132_3",
+      "id": "q_auto_1754924821993_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
@@ -282,7 +282,7 @@ const config = {
   "deploymentInfo": {
     "repoName": "Giveaway-800",
     "repoUrl": "https://github.com/arslvn93/Giveaway-800",
-    "netlifyUrl": "http://SkyGroup-home.netlify.app",
+    "netlifyUrl": "http://SkyGroup-giveaway.netlify.app",
     "netlifyId": "1015470526",
     "tag": "Free Home Evaluation Giveaway"
   }
