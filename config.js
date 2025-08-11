@@ -81,8 +81,8 @@ const config = {
       },
       {
         "icon": "fas fa-trophy",
-        "title": "You're Entered to Win!",
-        "description": "That's all! We'll notify the winner by email on September 8, 2025."
+        "title": "You're Entered!",
+        "description": "That's all! We'll send your home evaluation to your email!"
       }
     ],
     "highlights": [
@@ -95,16 +95,8 @@ const config = {
         "text": "No cost to participate"
       },
       {
-        "icon": "fas fa-percent",
-        "text": "Save up to $15,000 on your sale"
-      },
-      {
         "icon": "fas fa-check",
-        "text": "Fair and random winner selection"
-      },
-      {
-        "icon": "fas fa-users",
-        "text": "You or a family member can use the discount"
+        "text": "Completely custom Home Evaluation"
       }
     ]
   },
@@ -112,38 +104,30 @@ const config = {
     "faq": [
       {
         "q": "Who can enter?",
-        "a": "Homeowners living in Vellore Village, Vaughan are eligible to win."
+        "a": "Anyone who wants a free home evaluation."
       },
       {
         "q": "What if I'm not ready to sell right now?",
-        "a": "No problem! You can use the discount any time before spring 2026 or transfer it to a family member or friend who lives in Vellore Village."
+        "a": "No problem! You can use this information for reference later on."
       },
       {
-        "q": "How is the discount given?",
-        "a": "You get 1% off your total listing commission. This discount comes right off your closing costs - no cash value or payouts."
-      },
-      {
-        "q": "Does this cover photos, video, and staging?",
-        "a": "Yes! The full package covers pro photography, video, media, and home staging."
-      },
-      {
-        "q": "How will I know if I won?",
-        "a": "We'll email the winner on September 8, 2025. Make sure your contact details are correct!"
+        "q": "How is the evaluation given?",
+        "a": "The Sky Group team will thoroughly go through your home's worth."
       }
     ],
     "tips": [
-      "Use your main email address so you don't miss the winner announcement.",
-      "Think of family or friends who may need to sell soon - they can be your backup.",
+      "Use your main email address so you don't miss our communication efforts.",
+      "Think of family or friends who may need to sell soon - they can really use this prize.",
       "Share this free offer with other Vellore Village homeowners for more local winners.",
-      "Ready to move by spring 2026? This is your chance to save thousands."
+      "Ready to move by spring 2026? This is your chance to get moving."
     ],
     "fairSelectionInfo": {
-      "title": "Fair Chance for All Vellore Village Homeowners",
-      "text": "All entries are treated equally\u000026mdash;one random winner selected September 8."
+      "title": "",
+      "text": ""
     },
     "importantNotice": {
-      "title": "Winner Notification is by Email",
-      "text": "Watch your inbox after September 8. The winner will be contacted directly by Stephen Fabbro."
+      "title": "Notification is by Email",
+      "text": "Watch your inbox to get all the details."
     }
   },
   "entryForm": {
@@ -157,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1754925025268_0",
+      "id": "q_auto_1754925188851_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -179,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754925025268_1",
+      "id": "q_auto_1754925188851_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -201,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754925025268_2",
+      "id": "q_auto_1754925188851_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -223,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754925025268_3",
+      "id": "q_auto_1754925188851_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
