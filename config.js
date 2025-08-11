@@ -35,12 +35,12 @@ const config = {
         "alt": "Professional home photography example in Vellore Village"
       },
       {
-        "src": "",
-        "alt": "Beautifully staged living room ready for sale"
-      },
-      {
         "src": "https://i.ibb.co/QvpPyQ2M/Group-Shot-Couch.jpg",
         "alt": "SkyGroup Couch photo"
+      },
+      {
+        "src": "https://www.gta-homes.com/wp-content/uploads/home-appraisals-in-ontario-01.jpg",
+        "alt": "Home Evaluation"
       },
       {
         "src": "https://i.ibb.co/gbp57RH1/Screenshot-2025-07-09-at-1-24-49-p-m.png",
@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1754925259654_0",
+      "id": "q_auto_1754925307000_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754925259654_1",
+      "id": "q_auto_1754925307000_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754925259654_2",
+      "id": "q_auto_1754925307000_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754925259654_3",
+      "id": "q_auto_1754925307000_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
