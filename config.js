@@ -49,24 +49,16 @@ const config = {
     ],
     "includedItems": [
       {
-        "icon": "fas fa-image",
-        "text": "Professional photography & video to make your home shine"
+        "icon": "fas fa-money",
+        "text": "Know your home's worth in today's market!"
       },
       {
         "icon": "fas fa-home",
-        "text": "Full staging & media package included"
-      },
-      {
-        "icon": "fas fa-percent",
-        "text": "1% off listing commission; up to $15,000 in savings"
+        "text": "Full Home Evaluation Included"
       },
       {
         "icon": "fas fa-thumbs-up",
-        "text": "Expert local service by Stephen Fabbro"
-      },
-      {
-        "icon": "fas fa-gift",
-        "text": "Transferable - give to a family member or friend in Vellore Village"
+        "text": "Expert local service by The Sky Group"
       }
     ],
     "name": "Free Custom Home Evaluation!",
@@ -165,7 +157,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1754924434008_0",
+      "id": "q_auto_1754924491779_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -187,7 +179,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754924434008_1",
+      "id": "q_auto_1754924491779_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -209,7 +201,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754924434008_2",
+      "id": "q_auto_1754924491779_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -231,7 +223,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754924434008_3",
+      "id": "q_auto_1754924491779_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
