@@ -69,11 +69,11 @@ const config = {
         "text": "Transferable - give to a family member or friend in Vellore Village"
       }
     ],
-    "name": "Vellore Village Exclusive Home Seller Discount",
-    "value": "Up to $15,000 Value",
-    "description": "Imagine keeping thousands more from your home sale! With this exclusive offer, one lucky Vellore Village homeowner will win a 1% discount off the full listing commission from Stephen Fabbro, your local real estate expert. Our full package covers everything: professional photos, videos, media, and stunning staging - so your home stands out. You save big and show your home at its best.",
-    "limitedTimeOfferText": "Only for Vellore Village Residents; One Winner!",
-    "ctaButtonText": "Claim My Discount Entry!"
+    "name": "Free Custom Home Evaluation!",
+    "value": "From Sky Group",
+    "description": "",
+    "limitedTimeOfferText": "",
+    "ctaButtonText": "Claim My Free Evaluation!"
   },
   "howToEnter": {
     "steps": [
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1754923926844_0",
+      "id": "q_auto_1754924434008_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754923926844_1",
+      "id": "q_auto_1754924434008_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754923926844_2",
+      "id": "q_auto_1754924434008_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754923926844_3",
+      "id": "q_auto_1754924434008_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
