@@ -11,11 +11,11 @@ const config = {
     "promotionDates": "Promotion open for one month only!",
     "endDate": "2025-09-16T06:59:00.000Z",
     "heroCtaText": "Enter to Know Your Home's Worth!",
-    "entryFormCtaText": "Enter for My Discount!",
-    "name": "Vellore Village 1% Listing Commission Giveaway",
-    "successModalHeaderText": "You're In the Running!",
-    "successModalMainMessage": "Your entry for the <strong>Vellore Village 1% Listing Commission Discount</strong> is in! We will draw the winner on September 8, 2025 and notify them by email. Good luck!",
-    "successModalEmailPrompt": "Tell a friend in Vellore Village \u000026ndash; more local entries means more excitement and chances for everyone."
+    "entryFormCtaText": "Enter for My Home Evaluation!",
+    "name": "Home Evaluation Giveaway",
+    "successModalHeaderText": "You're In!",
+    "successModalMainMessage": "Your entry for the <strong>Free Home Evaluation</strong> is in! We will sent the details shortly to your entered contact preferences.",
+    "successModalEmailPrompt": "Tell a friend who is in need of a Home Evaluation! The more the merrier."
   },
   "settings": {
     "confettiColors": [],
@@ -151,13 +151,13 @@ const config = {
       "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-800.netlify.app%2Fadmin",
       "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-800.netlify.app%2Fadmin&text=Win%20a%201%25%20listing%20commission%20discount%20for%20your%20Vellore%20Village%20home%20sale!"
     },
-    "subtitle": "Ready to save on your home sale? Enter below for a shot at the $15,000 commission discount!",
-    "entryCountText": "Over 100 Vellore Village homeowners have already entered. Don\u000027t miss your chance to be next!",
+    "subtitle": "Ready to know your home's worth? Enter your form below to get it.",
+    "entryCountText": "We've had multiple home evaluations done! Don\u0000't miss your chance to be next!",
     "socialSharePrompt": "Know someone selling soon? Share this prize with your neighbours!"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1754924845554_0",
+      "id": "q_auto_1754925025268_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -179,7 +179,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754924845554_1",
+      "id": "q_auto_1754925025268_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -201,7 +201,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754924845554_2",
+      "id": "q_auto_1754925025268_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -223,7 +223,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754924845554_3",
+      "id": "q_auto_1754925025268_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
