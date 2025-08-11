@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1754925237113_0",
+      "id": "q_auto_1754925259654_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754925237113_1",
+      "id": "q_auto_1754925259654_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754925237113_2",
+      "id": "q_auto_1754925259654_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1754925237113_3",
+      "id": "q_auto_1754925259654_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
@@ -236,8 +236,8 @@ const config = {
       "twitter": "",
       "tiktok": ""
     },
-    "pageTitle": "You're In the Running!",
-    "headerText": "You're In the Running!",
+    "pageTitle": "You're In!!",
+    "headerText": "You're all set, We'll handle the rest!",
     "mainMessage": "Your entry for the <strong>Free Home Evaluation</strong> is in! We'll get in contact with you!",
     "socialPromptText": "Tell a friend in Vellore Village - more local entries means more excitement and chances for everyone."
   },
