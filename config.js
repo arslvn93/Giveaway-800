@@ -141,7 +141,29 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755188272573_2",
+      "id": "q_auto_1755188362404_0",
+      "questionText": "What do you love the most about your current home?",
+      "options": [
+        {
+          "value": "The location",
+          "text": "The location"
+        },
+        {
+          "value": "The layout",
+          "text": "The layout"
+        },
+        {
+          "value": "The finishes (paint, lighting, etc.)",
+          "text": "The finishes (paint, lighting, etc.)"
+        },
+        {
+          "value": "The outdoor space",
+          "text": "The outdoor space"
+        }
+      ]
+    },
+    {
+      "id": "q_auto_1755188362404_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -159,6 +181,28 @@ const config = {
         {
           "value": "I’m not sure yet",
           "text": "I’m not sure yet"
+        }
+      ]
+    },
+    {
+      "id": "q_auto_1755188362404_2",
+      "questionText": "Which of the following best describes your current living situation?",
+      "options": [
+        {
+          "value": "I don't own a home and am interested in buying",
+          "text": "I don't own a home and am interested in buying"
+        },
+        {
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
+        },
+        {
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
+        },
+        {
+          "value": "I’m actively looking to buy or sell now",
+          "text": "I’m actively looking to buy or sell now"
         }
       ]
     }
