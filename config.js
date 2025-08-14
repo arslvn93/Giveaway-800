@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Get a  <span class='highlight'>Completely Free Home Evaluation</span> from your trustworthy Real Estate Experts!",
     "heroSubheadline": "Just fill the form below and we'll get your custom Home Evaluation!",
-    "heroBackgroundImageUrl": "https://lh5.googleusercontent.com/EIXcwFR4KyzJk5pytnqxv67eyYnsB-1vzh7cf8Uz6MW1am17qxpJ0zaZwoa5tLsqaxf0ierEtXFTBlxBtoItCI1anIPAHLilVB-r3t8MPK7HpynVl6xTiwD-HQGW4PnBzpNEUenv2r13E-FbH1R72Vc",
+    "heroBackgroundImageUrl": "https://media.istockphoto.com/id/1439873441/photo/multi-color-leaves-in-neighbourhood-park-at-weston-road-and-major-mackenzie-dr-woodbridge.jpg?s=612x612&w=0&k=20&c=X29cBB-y6luV3WZO8K2UA5LNYkjkl6h-dcAKLXUdu9o=",
     "promotionDates": "Promotion open for locals in Vaughan!",
     "endDate": "2025-09-16T06:59:00.000Z",
     "heroCtaText": "Enter to Know Your Home's Worth!",
@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755191030019_0",
+      "id": "q_auto_1755191214943_0",
       "questionText": "What do you love the most about your current home?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755191030019_1",
+      "id": "q_auto_1755191214943_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755191030019_2",
+      "id": "q_auto_1755191214943_2",
       "questionText": "Which of the following best describes your current living situation?",
       "options": [
         {
