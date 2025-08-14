@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Get a  <span class='highlight'>Completely Free Home Evaluation</span> from your trustworthy Real Estate Experts!",
     "heroSubheadline": "Just fill the form below and we'll get your custom Home Evaluation!",
-    "heroBackgroundImageUrl": "https://images.pexels.com/photos/280221/pexels-photo-280221.jpeg",
+    "heroBackgroundImageUrl": "https://mortgagemark.com/wp-content/uploads/2024/01/51-1024x360.png",
     "promotionDates": "Promotion open for one month only!",
     "endDate": "2025-09-16T06:59:00.000Z",
     "heroCtaText": "Enter to Know Your Home's Worth!",
@@ -141,52 +141,30 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755179584376_0",
-      "questionText": "Which of the following home improvements have you considered recently?",
+      "id": "q_auto_1755179691875_0",
+      "questionText": "What do you love the most about your current home?",
       "options": [
         {
-          "value": "Renovating a kitchen",
-          "text": "Renovating a kitchen"
+          "value": "The location",
+          "text": "The location"
         },
         {
-          "value": "Upgrading outdoor spaces",
-          "text": "Upgrading outdoor spaces"
+          "value": "The layout",
+          "text": "The layout"
         },
         {
-          "value": "Enhancing curb appeal",
-          "text": "Enhancing curb appeal"
+          "value": "The finishes (paint, lighting, etc.)",
+          "text": "The finishes (paint, lighting, etc.)"
         },
         {
-          "value": "None at the moment",
-          "text": "None at the moment"
+          "value": "The outdoor space",
+          "text": "The outdoor space"
         }
       ]
     },
     {
-      "id": "q_auto_1755179584376_1",
-      "questionText": "How do you envision your ideal home environment in the next 5 years?",
-      "options": [
-        {
-          "value": "Staying in my current home",
-          "text": "Staying in my current home"
-        },
-        {
-          "value": "Upsizing to a larger space",
-          "text": "Upsizing to a larger space"
-        },
-        {
-          "value": "Downsizing to something cozier",
-          "text": "Downsizing to something cozier"
-        },
-        {
-          "value": "Looking for a neighborhood change",
-          "text": "Looking for a neighborhood change"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1755179584376_2",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_1755179691875_1",
+      "questionText": "Is a move in the radar in your near future?",
       "options": [
         {
           "value": "Yes, sometime in 2025",
@@ -207,24 +185,24 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755179584376_3",
-      "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
+      "id": "q_auto_1755179691875_2",
+      "questionText": "What best describes your current living situation?",
       "options": [
         {
-          "value": "Weekly",
-          "text": "Weekly"
+          "value": "I rent and am interested in buying",
+          "text": "I rent and am interested in buying"
         },
         {
-          "value": "Monthly",
-          "text": "Monthly"
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
         },
         {
-          "value": "Occasionally",
-          "text": "Occasionally"
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
         },
         {
-          "value": "Rarely",
-          "text": "Rarely"
+          "value": "I’m actively looking to buy or sell now",
+          "text": "I’m actively looking to buy or sell now"
         }
       ]
     }
