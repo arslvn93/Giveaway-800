@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755186425659_0",
+      "id": "q_auto_1755188029632_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755186425659_1",
+      "id": "q_auto_1755188029632_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755186425659_2",
+      "id": "q_auto_1755188029632_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755186425659_3",
+      "id": "q_auto_1755188029632_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
@@ -266,7 +266,7 @@ const config = {
   "deploymentInfo": {
     "repoName": "Giveaway-800",
     "repoUrl": "https://github.com/arslvn93/Giveaway-800",
-    "netlifyUrl": "http://SkyGroup-giveaway.netlify.app",
+    "netlifyUrl": "http://Giveaway-800.netlify.app",
     "netlifyId": "1015470526",
     "tag": "Free Home Evaluation Giveaway"
   }
