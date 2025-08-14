@@ -21,7 +21,7 @@ const config = {
     "confettiColors": [],
     "showCountdownInHero": true,
     "theme": "light",
-    "primaryColorOverride": "#000000",
+    "primaryColorOverride": "#000000, #bf3d35",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/XJJFJP9sLnGUcLF1yfop/webhook-trigger/D7wvYvKJ8DURX1ECSmjG",
     "facebookPixelId": "380781217326789",
     "salesGeniusAppApi": "",
@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755188031389_0",
+      "id": "q_auto_1755188225857_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755188031389_1",
+      "id": "q_auto_1755188225857_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755188031389_2",
+      "id": "q_auto_1755188225857_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755188031389_3",
+      "id": "q_auto_1755188225857_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
