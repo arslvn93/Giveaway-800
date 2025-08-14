@@ -82,7 +82,7 @@ const config = {
       {
         "icon": "fas fa-trophy",
         "title": "You're Entered!",
-        "description": "That's all! We'll send your home evaluation to your email!"
+        "description": "That's all! We'll send you an email to get your home evaluation started!"
       }
     ],
     "highlights": [
@@ -104,11 +104,11 @@ const config = {
     "faq": [
       {
         "q": "Who can enter?",
-        "a": "Anyone who wants a free home evaluation."
+        "a": "Anyone who wants to know their home value in today's market completely free without any commitment to our team of agents."
       },
       {
         "q": "What if I'm not ready to sell right now?",
-        "a": "No problem! You can use this information for reference later on."
+        "a": "No problem! You can use this information for reference later on, it could also be valuable for your friendly neighbour, family or friends."
       },
       {
         "q": "How is the evaluation given?",
@@ -127,7 +127,7 @@ const config = {
     },
     "importantNotice": {
       "title": "Notification is by Email",
-      "text": "Watch your inbox to get all the details."
+      "text": "Watch your inbox to get all the details and get your evaluation started."
     }
   },
   "entryForm": {
@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755178827656_0",
+      "id": "q_auto_1755178915584_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755178827656_1",
+      "id": "q_auto_1755178915584_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755178827656_2",
+      "id": "q_auto_1755178915584_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755178827656_3",
+      "id": "q_auto_1755178915584_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
