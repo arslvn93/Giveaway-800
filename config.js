@@ -63,8 +63,8 @@ const config = {
     ],
     "name": "Free Custom Home Evaluation!",
     "value": "From Sky Group",
-    "description": "et an accurate, professional assessment of your property's current market value from licensed real estate experts - at absolutely no cost to you.",
-    "limitedTimeOfferText": "",
+    "description": "Get an accurate, professional assessment of your property's current market value from licensed real estate experts at The Sky Group - at absolutely no cost to you.",
+    "limitedTimeOfferText": "Limited Entry – Don’t Miss Out!",
     "ctaButtonText": "Claim My Free Evaluation!"
   },
   "howToEnter": {
@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755179782329_0",
+      "id": "q_auto_1755179946927_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755179782329_1",
+      "id": "q_auto_1755179946927_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755179782329_2",
+      "id": "q_auto_1755179946928_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755179782329_3",
+      "id": "q_auto_1755179946928_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
