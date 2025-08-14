@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Get a  <span class='highlight'>Completely Free Home Evaluation</span> from your trustworthy Real Estate Experts!",
     "heroSubheadline": "Just fill the form below and we'll get your custom Home Evaluation!",
-    "heroBackgroundImageUrl": "https://mortgagemark.com/wp-content/uploads/2024/01/51-1024x360.png",
+    "heroBackgroundImageUrl": "https://images.pexels.com/photos/280221/pexels-photo-280221.jpeg",
     "promotionDates": "Promotion open for one month only!",
     "endDate": "2025-09-16T06:59:00.000Z",
     "heroCtaText": "Enter to Know Your Home's Worth!",
@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755178915584_0",
+      "id": "q_auto_1755179584376_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755178915584_1",
+      "id": "q_auto_1755179584376_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755178915584_2",
+      "id": "q_auto_1755179584376_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755178915584_3",
+      "id": "q_auto_1755179584376_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
