@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Get a  <span class='highlight'>Completely Free Home Evaluation</span> from your trustworthy Real Estate Experts!",
     "heroSubheadline": "Just fill the form below and we'll get your custom Home Evaluation!",
-    "heroBackgroundImageUrl": "https://mortgagemark.com/wp-content/uploads/2024/01/51-1024x360.png",
+    "heroBackgroundImageUrl": "https://images.pexels.com/photos/280221/pexels-photo-280221.jpeg?_gl=1*gw0k8u*_ga*MTU1MDYzMDYyOS4xNzU1MTc5NTYz*_ga_8JE65Q40S6*czE3NTUxNzk1NjMkbzEkZzEkdDE3NTUxNzk1NzUkajQ4JGwwJGgw",
     "promotionDates": "Promotion open for one month only!",
     "endDate": "2025-09-16T06:59:00.000Z",
     "heroCtaText": "Enter to Know Your Home's Worth!",
@@ -141,30 +141,52 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755179734607_0",
-      "questionText": "What do you love the most about your current home?",
+      "id": "q_auto_1755179781864_0",
+      "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
-          "value": "The location",
-          "text": "The location"
+          "value": "Renovating a kitchen",
+          "text": "Renovating a kitchen"
         },
         {
-          "value": "The layout",
-          "text": "The layout"
+          "value": "Upgrading outdoor spaces",
+          "text": "Upgrading outdoor spaces"
         },
         {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
+          "value": "Enhancing curb appeal",
+          "text": "Enhancing curb appeal"
         },
         {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
+          "value": "None at the moment",
+          "text": "None at the moment"
         }
       ]
     },
     {
-      "id": "q_auto_1755179734607_1",
-      "questionText": "Is a move in the radar in your near future?",
+      "id": "q_auto_1755179781864_1",
+      "questionText": "How do you envision your ideal home environment in the next 5 years?",
+      "options": [
+        {
+          "value": "Staying in my current home",
+          "text": "Staying in my current home"
+        },
+        {
+          "value": "Upsizing to a larger space",
+          "text": "Upsizing to a larger space"
+        },
+        {
+          "value": "Downsizing to something cozier",
+          "text": "Downsizing to something cozier"
+        },
+        {
+          "value": "Looking for a neighborhood change",
+          "text": "Looking for a neighborhood change"
+        }
+      ]
+    },
+    {
+      "id": "q_auto_1755179781864_2",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
           "value": "Yes, sometime in 2025",
@@ -185,24 +207,24 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755179734607_2",
-      "questionText": "What best describes your current living situation?",
+      "id": "q_auto_1755179781864_3",
+      "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
+          "value": "Weekly",
+          "text": "Weekly"
         },
         {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
+          "value": "Monthly",
+          "text": "Monthly"
         },
         {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
+          "value": "Occasionally",
+          "text": "Occasionally"
         },
         {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
+          "value": "Rarely",
+          "text": "Rarely"
         }
       ]
     }
@@ -226,11 +248,11 @@ const config = {
     },
     "agentContact": {
       "name": "The Sky Group",
-      "title": "Local Real Estate Experts ",
+      "title": "Local Real Estate Experts - Vellore Village",
       "phone": "(289) 907-0228",
       "email": "info@theskygroup.ca"
     },
-    "footerDisclaimer": "This giveaway is organized by The Sky Group Real Estate Team. Completely free to enter. No purchase required and no strings attached.",
+    "footerDisclaimer": "This giveaway is organized by The Sky Group Real Estate. Open to Vellore Village homeowners only. Winner will be selected randomly from valid entries by September 8, 2025. Prize is a 1% listing commission discount applied on closing, with no cash value. No purchase required.",
     "organizerLogoUrl": "https://theskygroup.ca/wp-content/uploads/2022/07/SkyGroupLogo.png",
     "secondaryLogoUrl": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066701131-HMSQC87ZI0P5A10TQREH/logo_black_bg.jpg",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
