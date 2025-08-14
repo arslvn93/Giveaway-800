@@ -12,7 +12,7 @@ const config = {
     "endDate": "2025-09-16T06:59:00.000Z",
     "heroCtaText": "Enter to Know Your Home's Worth!",
     "entryFormCtaText": "Enter for My Home Evaluation!",
-    "name": "Home Evaluation Giveaway",
+    "name": "Home Evaluation Sign Up",
     "successModalHeaderText": "You're In!",
     "successModalMainMessage": "Your entry for the <strong>Free Home Evaluation</strong> is in! We will sent the details shortly to your entered contact preferences.",
     "successModalEmailPrompt": "Tell a friend who is in need of a Home Evaluation! The more the merrier."
@@ -141,51 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755188226631_0",
-      "questionText": "Which of the following home improvements have you considered recently?",
-      "options": [
-        {
-          "value": "Renovating a kitchen",
-          "text": "Renovating a kitchen"
-        },
-        {
-          "value": "Upgrading outdoor spaces",
-          "text": "Upgrading outdoor spaces"
-        },
-        {
-          "value": "Enhancing curb appeal",
-          "text": "Enhancing curb appeal"
-        },
-        {
-          "value": "None at the moment",
-          "text": "None at the moment"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1755188226631_1",
-      "questionText": "How do you envision your ideal home environment in the next 5 years?",
-      "options": [
-        {
-          "value": "Staying in my current home",
-          "text": "Staying in my current home"
-        },
-        {
-          "value": "Upsizing to a larger space",
-          "text": "Upsizing to a larger space"
-        },
-        {
-          "value": "Downsizing to something cozier",
-          "text": "Downsizing to something cozier"
-        },
-        {
-          "value": "Looking for a neighborhood change",
-          "text": "Looking for a neighborhood change"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1755188226631_2",
+      "id": "q_auto_1755188272573_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -203,28 +159,6 @@ const config = {
         {
           "value": "I’m not sure yet",
           "text": "I’m not sure yet"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1755188226631_3",
-      "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
-      "options": [
-        {
-          "value": "Weekly",
-          "text": "Weekly"
-        },
-        {
-          "value": "Monthly",
-          "text": "Monthly"
-        },
-        {
-          "value": "Occasionally",
-          "text": "Occasionally"
-        },
-        {
-          "value": "Rarely",
-          "text": "Rarely"
         }
       ]
     }
