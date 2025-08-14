@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Get a  <span class='highlight'>Completely Free Home Evaluation</span> from your trustworthy Real Estate Experts!",
     "heroSubheadline": "Just fill the form below and we'll get your custom Home Evaluation!",
-    "heroBackgroundImageUrl": "https://images.pexels.com/photos/280221/pexels-photo-280221.jpeg?_gl=1*gw0k8u*_ga*MTU1MDYzMDYyOS4xNzU1MTc5NTYz*_ga_8JE65Q40S6*czE3NTUxNzk1NjMkbzEkZzEkdDE3NTUxNzk1NzUkajQ4JGwwJGgw",
+    "heroBackgroundImageUrl": "https://lh5.googleusercontent.com/EIXcwFR4KyzJk5pytnqxv67eyYnsB-1vzh7cf8Uz6MW1am17qxpJ0zaZwoa5tLsqaxf0ierEtXFTBlxBtoItCI1anIPAHLilVB-r3t8MPK7HpynVl6xTiwD-HQGW4PnBzpNEUenv2r13E-FbH1R72Vc",
     "promotionDates": "Promotion open for one month only!",
     "endDate": "2025-09-16T06:59:00.000Z",
     "heroCtaText": "Enter to Know Your Home's Worth!",
@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755182128174_0",
+      "id": "q_auto_1755186425659_0",
       "questionText": "Which of the following home improvements have you considered recently?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755182128174_1",
+      "id": "q_auto_1755186425659_1",
       "questionText": "How do you envision your ideal home environment in the next 5 years?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755182128174_2",
+      "id": "q_auto_1755186425659_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755182128174_3",
+      "id": "q_auto_1755186425659_3",
       "questionText": "How often do you connect with neighbors and attend local events in Vellore Village?",
       "options": [
         {
