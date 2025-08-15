@@ -7,19 +7,19 @@ const config = {
   "giveaway": {
     "heroHeadline": "Get a  <span class='highlight'>Completely Free Home Evaluation</span> from your trustworthy Real Estate Experts!",
     "heroSubheadline": "Just fill the form below and we'll get your custom Home Evaluation!",
-    "heroBackgroundImageUrl": "https://media.istockphoto.com/id/1439873441/photo/multi-color-leaves-in-neighbourhood-park-at-weston-road-and-major-mackenzie-dr-woodbridge.jpg?s=612x612&w=0&k=20&c=X29cBB-y6luV3WZO8K2UA5LNYkjkl6h-dcAKLXUdu9o=",
-    "promotionDates": "Promotion open for locals in Vaughan!",
+    "heroBackgroundImageUrl": "https://i.ibb.co/xtJM3fBt/Vaughan.png",
+    "promotionDates": "Promotion open for one month only!",
     "endDate": "2025-09-16T06:59:00.000Z",
     "heroCtaText": "Enter to Know Your Home's Worth!",
     "entryFormCtaText": "Enter for My Home Evaluation!",
-    "name": "Home Evaluation Sign Up",
+    "name": "Home Evaluation Giveaway",
     "successModalHeaderText": "You're In!",
     "successModalMainMessage": "Your entry for the <strong>Free Home Evaluation</strong> is in! We will sent the details shortly to your entered contact preferences.",
     "successModalEmailPrompt": "Tell a friend who is in need of a Home Evaluation! The more the merrier."
   },
   "settings": {
     "confettiColors": [],
-    "showCountdownInHero": false,
+    "showCountdownInHero": true,
     "theme": "light",
     "primaryColorOverride": "#000000",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/XJJFJP9sLnGUcLF1yfop/webhook-trigger/D7wvYvKJ8DURX1ECSmjG",
@@ -63,8 +63,8 @@ const config = {
     ],
     "name": "Free Custom Home Evaluation!",
     "value": "From Sky Group",
-    "description": "Get an accurate, professional assessment of your property's current market value from licensed real estate experts at The Sky Group - at absolutely no cost to you.",
-    "limitedTimeOfferText": "Limited Entry – Don’t Miss Out!",
+    "description": "et an accurate, professional assessment of your property's current market value from licensed real estate experts - at absolutely no cost to you.",
+    "limitedTimeOfferText": "",
     "ctaButtonText": "Claim My Free Evaluation!"
   },
   "howToEnter": {
@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755191216035_0",
+      "id": "q_auto_1755284578274_0",
       "questionText": "What do you love the most about your current home?",
       "options": [
         {
@@ -163,8 +163,8 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755191216035_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_1755284578274_1",
+      "questionText": "Is a move in the radar in your near future?",
       "options": [
         {
           "value": "Yes, sometime in 2025",
@@ -185,12 +185,12 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755191216035_2",
-      "questionText": "Which of the following best describes your current living situation?",
+      "id": "q_auto_1755284578274_2",
+      "questionText": "What best describes your current living situation?",
       "options": [
         {
-          "value": "I don't own a home and am interested in buying",
-          "text": "I don't own a home and am interested in buying"
+          "value": "I rent and am interested in buying",
+          "text": "I rent and am interested in buying"
         },
         {
           "value": "I own and might sell within 2 years",
@@ -226,11 +226,11 @@ const config = {
     },
     "agentContact": {
       "name": "The Sky Group",
-      "title": "Local Real Estate Experts - Vellore Village",
+      "title": "Local Real Estate Experts ",
       "phone": "(289) 907-0228",
       "email": "info@theskygroup.ca"
     },
-    "footerDisclaimer": "This giveaway is organized by The Sky Group Real Estate. This Offer is available for Limited Timer Only. No purchase required, just a helping hand for our beautiful local community.",
+    "footerDisclaimer": "This giveaway is organized by The Sky Group Real Estate Team. Completely free to enter. No purchase required and no strings attached.",
     "organizerLogoUrl": "https://theskygroup.ca/wp-content/uploads/2022/07/SkyGroupLogo.png",
     "secondaryLogoUrl": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066701131-HMSQC87ZI0P5A10TQREH/logo_black_bg.jpg",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
@@ -244,7 +244,7 @@ const config = {
   "deploymentInfo": {
     "repoName": "Giveaway-800",
     "repoUrl": "https://github.com/arslvn93/Giveaway-800",
-    "netlifyUrl": "http://Giveaway-800.netlify.app",
+    "netlifyUrl": "http://SkyGroup-giveaway.netlify.app",
     "netlifyId": "1015470526",
     "tag": "Free Home Evaluation Giveaway"
   }
