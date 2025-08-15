@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755287727489_0",
+      "id": "q_auto_1755287738705_0",
       "questionText": "What do you love the most about your current home?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755287727489_1",
+      "id": "q_auto_1755287738705_1",
       "questionText": "Is a move in the radar in your near future?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755287727489_2",
+      "id": "q_auto_1755287738705_2",
       "questionText": "What best describes your current living situation?",
       "options": [
         {
@@ -217,7 +217,7 @@ const config = {
     "pageTitle": "You're In!!",
     "headerText": "You're all set, We'll handle the rest!",
     "mainMessage": "Your entry for the <strong>Free Home Evaluation</strong> is in! We'll get in contact with you!",
-    "socialPromptText": "Tell a friend in Vellore Village - more local entries means more excitement and chances for everyone."
+    "socialPromptText": "Tell a friend in Vaughan - more local entries means more excitement and chances for everyone."
   },
   "footerContact": {
     "social": {
