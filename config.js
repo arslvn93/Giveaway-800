@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755287750322_0",
+      "id": "q_auto_1755287762805_0",
       "questionText": "What do you love the most about your current home?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755287750322_1",
+      "id": "q_auto_1755287762805_1",
       "questionText": "Is a move in the radar in your near future?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755287750322_2",
+      "id": "q_auto_1755287762805_2",
       "questionText": "What best describes your current living situation?",
       "options": [
         {
@@ -230,7 +230,7 @@ const config = {
       "phone": "(289) 907-0228",
       "email": "info@theskygroup.ca"
     },
-    "footerDisclaimer": "This giveaway is organized by The Sky Group Real Estate Team. Completely free to enter. No purchase required and no strings attached.",
+    "footerDisclaimer": "This offer is organized by The Sky Group Real Estate Team. Completely free to enter. No purchase required and no strings attached.",
     "organizerLogoUrl": "https://theskygroup.ca/wp-content/uploads/2022/07/SkyGroupLogo.png",
     "secondaryLogoUrl": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066701131-HMSQC87ZI0P5A10TQREH/logo_black_bg.jpg",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
