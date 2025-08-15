@@ -12,7 +12,7 @@ const config = {
     "endDate": "2025-09-16T06:59:00.000Z",
     "heroCtaText": "Enter to Know Your Home's Worth!",
     "entryFormCtaText": "Enter for My Home Evaluation!",
-    "name": "Home Evaluation Giveaway",
+    "name": "Home Evaluation Free Offer",
     "successModalHeaderText": "You're In!",
     "successModalMainMessage": "Your entry for the <strong>Free Home Evaluation</strong> is in! We will sent the details shortly to your entered contact preferences.",
     "successModalEmailPrompt": "Tell a friend who is in need of a Home Evaluation! The more the merrier."
@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755287504356_0",
+      "id": "q_auto_1755287522724_0",
       "questionText": "What do you love the most about your current home?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755287504356_1",
+      "id": "q_auto_1755287522724_1",
       "questionText": "Is a move in the radar in your near future?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755287504356_2",
+      "id": "q_auto_1755287522724_2",
       "questionText": "What best describes your current living situation?",
       "options": [
         {
