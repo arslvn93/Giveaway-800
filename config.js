@@ -43,8 +43,8 @@ const config = {
         "alt": "Home Evaluation 2"
       },
       {
-        "src": "https://i.ibb.co/gbp57RH1/Screenshot-2025-07-09-at-1-24-49-p-m.png",
-        "alt": "SkyGroup x Property.Ca"
+        "src": "https://lh5.googleusercontent.com/EIXcwFR4KyzJk5pytnqxv67eyYnsB-1vzh7cf8Uz6MW1am17qxpJ0zaZwoa5tLsqaxf0ierEtXFTBlxBtoItCI1anIPAHLilVB-r3t8MPK7HpynVl6xTiwD-HQGW4PnBzpNEUenv2r13E-FbH1R72Vc",
+        "alt": "Vaughan, ON"
       }
     ],
     "includedItems": [
@@ -63,7 +63,7 @@ const config = {
     ],
     "name": "Free Custom Home Evaluation!",
     "value": "From Sky Group",
-    "description": "et an accurate, professional assessment of your property's current market value from licensed real estate experts - at absolutely no cost to you.",
+    "description": "Get an accurate, professional assessment of your property's current market value from licensed real estate experts - at absolutely no cost to you.",
     "limitedTimeOfferText": "",
     "ctaButtonText": "Claim My Free Evaluation!"
   },
@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755287459190_0",
+      "id": "q_auto_1755287492905_0",
       "questionText": "What do you love the most about your current home?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755287459190_1",
+      "id": "q_auto_1755287492905_1",
       "questionText": "Is a move in the radar in your near future?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755287459190_2",
+      "id": "q_auto_1755287492905_2",
       "questionText": "What best describes your current living situation?",
       "options": [
         {
