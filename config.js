@@ -21,7 +21,7 @@ const config = {
     "confettiColors": [],
     "showCountdownInHero": false,
     "theme": "dark",
-    "primaryColorOverride": "#000000",
+    "primaryColorOverride": "#b5b8b2",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/XJJFJP9sLnGUcLF1yfop/webhook-trigger/D7wvYvKJ8DURX1ECSmjG",
     "facebookPixelId": "380781217326789",
     "salesGeniusAppApi": "",
@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755287601476_0",
+      "id": "q_auto_1755287656173_0",
       "questionText": "What do you love the most about your current home?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755287601476_1",
+      "id": "q_auto_1755287656173_1",
       "questionText": "Is a move in the radar in your near future?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755287601476_2",
+      "id": "q_auto_1755287656173_2",
       "questionText": "What best describes your current living situation?",
       "options": [
         {
