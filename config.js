@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755287656173_0",
+      "id": "q_auto_1755287726139_0",
       "questionText": "What do you love the most about your current home?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755287656173_1",
+      "id": "q_auto_1755287726139_1",
       "questionText": "Is a move in the radar in your near future?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755287656173_2",
+      "id": "q_auto_1755287726139_2",
       "questionText": "What best describes your current living situation?",
       "options": [
         {
@@ -246,6 +246,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-800",
     "netlifyUrl": "http://SkyGroup-giveaway.netlify.app",
     "netlifyId": "1015470526",
-    "tag": "Free Home Evaluation Giveaway"
+    "tag": "Free Home Evaluation Offer"
   }
 };
