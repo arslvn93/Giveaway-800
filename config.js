@@ -8,7 +8,7 @@ const config = {
     "heroHeadline": "Get a  <span class='highlight'>Completely Free Home Evaluation</span> from your trustworthy Real Estate Experts!",
     "heroSubheadline": "Just fill the form below and we'll get your custom Home Evaluation!",
     "heroBackgroundImageUrl": "https://i.ibb.co/xtJM3fBt/Vaughan.png",
-    "promotionDates": "Promotion open for one month only!",
+    "promotionDates": "",
     "endDate": "2025-09-16T06:59:00.000Z",
     "heroCtaText": "Enter to Know Your Home's Worth!",
     "entryFormCtaText": "Enter for My Home Evaluation!",
@@ -19,7 +19,7 @@ const config = {
   },
   "settings": {
     "confettiColors": [],
-    "showCountdownInHero": true,
+    "showCountdownInHero": false,
     "theme": "light",
     "primaryColorOverride": "#000000",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/XJJFJP9sLnGUcLF1yfop/webhook-trigger/D7wvYvKJ8DURX1ECSmjG",
@@ -141,7 +141,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755284586736_0",
+      "id": "q_auto_1755287458163_0",
       "questionText": "What do you love the most about your current home?",
       "options": [
         {
@@ -163,7 +163,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755284586736_1",
+      "id": "q_auto_1755287458163_1",
       "questionText": "Is a move in the radar in your near future?",
       "options": [
         {
@@ -185,7 +185,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755284586736_2",
+      "id": "q_auto_1755287458163_2",
       "questionText": "What best describes your current living situation?",
       "options": [
         {
